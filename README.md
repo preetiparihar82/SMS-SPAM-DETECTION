@@ -13,3 +13,5 @@ This project involves building a spam email and sms detection system using machi
 4.Scikit-learn
 
 5.Streamlit
+
+Live Demo : Click here to try the SMS Spam Detector

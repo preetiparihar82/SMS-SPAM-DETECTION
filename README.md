@@ -14,4 +14,4 @@ This project involves building a spam email and sms detection system using machi
 
 5.Streamlit
 
-Live Demo : Click here to try the SMS Spam Detector
+Live Demo : https://sms-spam-detection-e7c5xen9wpjk3trqgkmaqw.streamlit.app/

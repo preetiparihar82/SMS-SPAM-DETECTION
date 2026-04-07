@@ -1,7 +1,8 @@
+import nltk
+nltk.download('punkt')
 import streamlit as st
 import pickle
 import re
-import nltk
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 
